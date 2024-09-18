@@ -1,0 +1,12 @@
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\bin\Debug\Husam qasim_lecture3.exe.config
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam qasim_lecture3.csprojResolveAssemblyReference.cache
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam_qasim_lecture3.Form1.resources
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam_qasim_lecture3.Properties.Resources.resources
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam qasim_lecture3.csproj.GenerateResource.Cache
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\bin\Debug\Husam qasim_lecture3.exe
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\bin\Debug\Husam qasim_lecture3.pdb
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam qasim_lecture3.exe
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam qasim_lecture3.pdb
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam_qasim_lecture3.sender.resources
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam_qasim_lecture3.Form3.resources
+F:\Programming by c#\Husam qasim_lecture3\Husam qasim_lecture3\obj\Debug\Husam_qasim_lecture3.Form4.resources
